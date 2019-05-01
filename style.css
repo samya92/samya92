@@ -1,0 +1,22 @@
+/* CSS files add styling rules to your content */
+<style>
+body {
+ background-color: #23250;
+}
+
+
+
+h1 {
+  font-style: "calibri";
+  color: #99999;
+}
+p {
+  color:#589812;
+  background-color:pink;
+}
+ol {
+  color:green;
+}
+
+</style>
+  
